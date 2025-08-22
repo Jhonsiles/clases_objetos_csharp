@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\bin\Debug\net8.0\Clase5_jheremy_liceo A_26.exe
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\bin\Debug\net8.0\Clase5_jheremy_liceo A_26.deps.json
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\bin\Debug\net8.0\Clase5_jheremy_liceo A_26.runtimeconfig.json
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\bin\Debug\net8.0\Clase5_jheremy_liceo A_26.dll
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\bin\Debug\net8.0\Clase5_jheremy_liceo A_26.pdb
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.dll
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\refint\Clase5_jheremy_liceo A_26.dll
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.pdb
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\Clase5_jheremy_liceo A_26.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Clase5_jheremy_liceo A_26\obj\Debug\net8.0\ref\Clase5_jheremy_liceo A_26.dll
