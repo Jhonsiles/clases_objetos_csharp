@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clase5_jheremy_liceo A_26")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3213ea4f8ea681fb4b223c384109f50955b83e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33530e732527c197769aa0c60e60d3bb51f75211")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clase5_jheremy_liceo A_26")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clase5_jheremy_liceo A_26")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
